@@ -8,7 +8,7 @@ redirect_from:
 ---
 My name is **Ruiqi Yang**. I am currently a junior undergraduate student at **Zhejiang University**, majoring in Biomedical Engineering.
 
-I am fortunate to conduct research at Westlake University ENCODE Lab, advised by [Prof. Huan Wang](https://huanwang.tech/). I am interested in **Machine Learning**.
+I am interested in **Machine Learning**.
 
 My email: [ruiqiyang0516] [at] gmail [dot] com.
 
